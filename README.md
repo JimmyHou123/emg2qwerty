@@ -1,4 +1,4 @@
-[📄 Read the full PDF documentation](ECE_C147_Final_Project.pdf)
+[📄 Read the Project Report](ECE_C147_Final_Project.pdf)
 
 # C147/247 Final Project
 ### Winter 2025 - _Professor Jonathan Kao_
